@@ -89,13 +89,13 @@
 	margin-top:20px;
 }
 #edu{
-	width:320px;
+	width:300px;
 	margin-left:5%;
 	margin-top:45px;
 }
 #jobs{
 	float:left;
-	width:320px;
+	width:300px;
 	margin-left:5%;
 	margin-top:15px;
 }
@@ -108,12 +108,12 @@
 }
 #about .fig h2{
 	font-size:25px;
-	width:90px;
+	width:80px;
 	height:120px;
 	line-height:120px;
 }
 #about .fig span{
-	left:100px;
+	left:85px;
 }
 #about .fig h4{
 	display:block;
@@ -121,9 +121,9 @@
 	font-size:16px;
 }
 #about .fig p{
-	display:block;
 	padding-bottom:5px;
 	font-size:14px;
+	line-height:22px;
 }
 #sklls .sk-li p{
 	padding-bottom:0;
@@ -136,16 +136,17 @@
 	margin:10px 0.5% 0 0.5%;
 }
 #project img{
-	width:300px;
+	width:280px;
 }
 #contact{
 	margin-bottom:20px;
 }
 #contact .name{
-	margin-left:15%;
-	font-size:16px;
-	line-height:25px;
+	width:300px;
 	height:250px;
+	margin-left:5%;
+	font-size:14px;
+	line-height:25px;
 }
 #contact .name h2{
 	font-size:20px;
