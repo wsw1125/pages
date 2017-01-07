@@ -11,9 +11,9 @@ ul li{
 	list-style-type:none;
 }
 
-a{
+/*a{
 	text-decoration:none; 
-}
+}*/
 #header{
 	width:100%;
 	height:70px;
@@ -41,7 +41,7 @@ a{
 	width:65px;
 	height:50px;
 	margin:0 5px;
-	font-size:16px;
+	font-size:20px;
 	text-align:center;
 	line-height:50px;
 	border-bottom:1px solid #ccc;
@@ -152,16 +152,17 @@ a{
 	float:left;
 	margin-left:5%;
 	margin-top:70px;
+	font-size:18px;
 	color:#999;
 	width:35%;
 	height:400px;
-	line-height:24px;
+	line-height:26px;
 	text-align:left;
 
 }
 #about .int h3{
 	padding:0 0 3px 0;
-	font-size:18px;
+	font-size:22px;
 	color:#333;
 
 }
@@ -227,7 +228,7 @@ a{
 }
 #about .fig h4{
 	display:block;
-	margin:10px 5px 0 0;
+	margin:10px 5px 15px 0;
 	font-size:22px;
 	
 
@@ -235,7 +236,7 @@ a{
 #about .fig p{
 	display:block;
 	padding-bottom:5px;
-	font-size:14px;
+	font-size:18px;
 	color:#999;
 }
 
@@ -313,14 +314,13 @@ a{
 	border-top:2px dashed  #ccc;
 }
 #contact .name{
-	width:300px;
-	height:200px;
+	width:400px;
+	height:300px;
 	float:left;
-	margin-left:25%;
+	margin-left:15%;
 	font-size:20px;
 	color:#666;
 	line-height:33px;
-	/*background:red;*/
 }
 #contact .name h2{
 	font-size:24px;
@@ -345,6 +345,7 @@ a{
 #contact .code{
 	float:right;
 	margin-right:25%;
+	margin-top:50px;
 	width:200px;
 }
 

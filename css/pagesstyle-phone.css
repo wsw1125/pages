@@ -70,9 +70,9 @@
 	margin-left:5%;
 	margin-right:5%;
 	margin-top:0;
-	font-size:12px;
+	font-size:14px;
 	width:90%;
-	height:380px;
+	height:450px;
 }
 #about .int h3{
 	padding:0 0 1px 0;
@@ -100,7 +100,7 @@
 	margin-top:15px;
 }
 #about .fig h3{
-	padding-bottom:0px;
+	padding-bottom:2px;
 	font-size:20px;
 }
 #about .mod{
@@ -117,13 +117,13 @@
 }
 #about .fig h4{
 	display:block;
-	margin:10px 5px 0 0;
-	font-size:14px;
+	margin:10px 5px 5px 0;
+	font-size:16px;
 }
 #about .fig p{
 	display:block;
 	padding-bottom:5px;
-	font-size:12px;
+	font-size:14px;
 }
 #sklls .sk-li p{
 	padding-bottom:0;
@@ -145,7 +145,7 @@
 	margin-left:15%;
 	font-size:16px;
 	line-height:25px;
-	/*background:red;*/
+	height:250px;
 }
 #contact .name h2{
 	font-size:20px;
@@ -154,6 +154,7 @@
 
 #contact .code{
 	margin-right:22%;
+	margin-top:0;
 }
 #fooder{
 	height:30px;
