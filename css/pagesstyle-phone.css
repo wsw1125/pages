@@ -70,9 +70,9 @@
 	margin-left:5%;
 	margin-right:5%;
 	margin-top:0;
+	font-size:12px;
 	width:90%;
 	height:350px;
-	/*background:red;*/
 }
 #about .int h3{
 	padding:0 0 1px 0;
@@ -84,9 +84,9 @@
 }
 #about img{
 	float:right;
-	width:300px;
-	margin-right:15%;
-	margin-top:0;
+	width:250px;
+	margin-right:10%;
+	margin-top:10px;
 }
 #edu{
 	width:320px;
