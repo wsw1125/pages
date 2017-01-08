@@ -6,6 +6,9 @@
 	font-size:18px;
 	line-height:50px;
 }
+#logo a h1{
+	font-size:40px;
+}
 #header .search{
 	
 	right:3%;
@@ -57,7 +60,6 @@
 	width:90%;
 	height:230px;
 	font-size:16px;
-	/*background:red;*/
 }
 #about .int h3{
 	padding:0 0 10px 0;

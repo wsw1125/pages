@@ -10,10 +10,6 @@ body{
 ul li{
 	list-style-type:none;
 }
-
-/*a{
-	text-decoration:none; 
-}*/
 #header{
 	width:100%;
 	height:70px;
@@ -28,8 +24,16 @@ ul li{
 	height:70px;
 	position:absolute;
 	left:5%;
-	top:0px;
-	background:red;
+	top:-5px;
+	line-height:70px;
+	text-align:center;
+}
+#logo a{
+	text-decoration:none;
+}
+#logo a h1{
+	font-family:'Comic Sans MS','Arial';
+	font-size:45px;
 }
 #header ul{
 	position:absolute;
@@ -145,8 +149,6 @@ ul li{
 #about{
 	width:100%;
 	margin-top:70px;
-	/*margin:0 auto;*/
-	/*text-align:center;*/
 }
 #about .int{
 	float:left;
@@ -186,7 +188,6 @@ ul li{
 	text-align:left;
 	margin-left:10%;
 	margin-top:70px;
-	/*background:red;*/
 }
 #jobs{
 	float:left;
@@ -194,7 +195,6 @@ ul li{
 	text-align:left;
 	margin-left:10%;
 	margin-top:70px;
-	/*background:green;*/
 }
 #about .fig h3{
 	padding-bottom:35px;
@@ -203,7 +203,6 @@ ul li{
 #about .mod{
 	position:relative;
 	margin:70px 0;
-	/*background:red;*/
 }
 #about .fig h2{
 	display:block;
@@ -248,7 +247,6 @@ ul li{
 	width:80%;
 	float:left;
 	margin-left:10%;
-	/*background:red;*/
 }
 #sklls .sk-li{
 	height:80px;
@@ -334,7 +332,6 @@ ul li{
 	margin-left:8px;
 	margin-top:10px;
 	text-align:center;
-	/*line-height:35px;*/
 	background:#2c58ed;
 	border-radius:50%;
 
